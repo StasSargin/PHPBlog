@@ -1,8 +1,8 @@
 <?php
 
 return [
-	'host' => '',
-	'name' => '',
-	'user' => '',
+	'host' => 'localhost',
+	'name' => 'test_mvc_db',
+	'user' => 'root',
 	'password' => '',
 ];

@@ -39,7 +39,7 @@
                     <div class="col-lg-8 col-md-10 mx-auto">
                         <ul class="list-inline text-center">
                             <li class="list-inline-item">
-                                <a href="https://www.youtube.com/user/Shift63770" target="_blank">
+                                <a href="https://www.youtube.com/" target="_blank">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
@@ -47,7 +47,7 @@
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="https://vk.com/php.youtube" target="_blank">
+                                <a href="https://vk.com/" target="_blank">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-vk fa-stack-1x fa-inverse"></i>
@@ -55,7 +55,7 @@
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="/" target="_blank">
+                                <a href="https://github.com/StasSargin/" target="_blank">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-github fa-stack-1x fa-inverse"></i>
